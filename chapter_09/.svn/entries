@@ -1,0 +1,76 @@
+10
+
+dir
+6397
+svn+ssh://lan.sitepoint.com:7001/books/jquery1/trunk/code/chapter_09
+svn+ssh://lan.sitepoint.com:7001
+
+
+
+2010-02-18T05:08:51.249136Z
+5637
+svn_louis_simoneau
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+433c8202-6930-0410-a7f7-dab8533f9a92
+
+01_plugins
+dir
+
+02_plugin_options
+dir
+
+03_plugin_options_with_defaults
+dir
+
+04_plugin_callbacks
+dir
+
+06_extending_jquery
+dir
+
+07_$_prefixed_functions
+dir
+
+08_overwriting_existing_function
+dir
+
+09_custom_selectors
+dir
+
+10_event_properties
+dir
+
+11_custom_events
+dir
+
+12_custom_events_with_params
+dir
+
+13_event_unbinding
+dir
+
+14_event_namespacing
+dir
+
+15_special_event
+dir
+
+16_queue_dequeue_animations
+dir
+
+17_themable_components
+dir
+

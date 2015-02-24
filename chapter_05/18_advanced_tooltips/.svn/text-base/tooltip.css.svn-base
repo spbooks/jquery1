@@ -1,0 +1,42 @@
+span.tooltip {
+  background: transparent url(sprite_tooltips.png) no-repeat scroll 0 0;
+  font: 15px/2 normal Helvetica,Arial,Verdana,sans-serif;
+  display: none;
+  height: 60px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: left;
+  white-space: nowrap;
+  width: 220px;
+  z-index: 100;
+}
+
+span.tooltip span {
+  display: inline-block;
+  padding: 15px 0 0 12px;
+}
+
+span.tooltip.left {
+  background-position: 100% 0;
+}
+
+span.tooltip.left span {
+  padding: 15px 0 0 17px;
+}
+
+span.tooltip.above {
+  background-position: 0 100%;
+}
+
+span.tooltip.above span {
+  padding: 13px 0 0 12px;
+}
+
+span.tooltip.above.left {
+  background-position: 100% 100%;
+}
+
+span.tooltip.above.left span {
+  padding: 13px 0 0 17px;
+}

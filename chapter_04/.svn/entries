@@ -1,0 +1,73 @@
+10
+
+dir
+6397
+svn+ssh://lan.sitepoint.com:7001/books/jquery1/trunk/code/chapter_04
+svn+ssh://lan.sitepoint.com:7001
+
+
+
+2010-04-09T05:49:18.795117Z
+6107
+svn_louis_simoneau
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+433c8202-6930-0410-a7f7-dab8533f9a92
+
+01_lightbox
+dir
+
+02_colorbox_plugin
+dir
+
+03_jcrop
+dir
+
+04_rollover_fade
+dir
+
+05_timers
+dir
+
+06_slideshow_fade
+dir
+
+07_slideshow_cross_fade
+dir
+
+08_innerfade
+dir
+
+09_cycle_plugin
+dir
+
+10_cycle_plugin_2
+dir
+
+11_thumbnail_scroller
+dir
+
+12_thumbnail_scroller_improved
+dir
+
+13_scrolling_gallery
+dir
+
+14_scrolling_gallery_improved
+dir
+
+15_iphoto_style_slideshow
+dir
+

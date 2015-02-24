@@ -1,0 +1,58 @@
+10
+
+dir
+6397
+svn+ssh://lan.sitepoint.com:7001/books/jquery1/trunk/code/chapter_08
+svn+ssh://lan.sitepoint.com:7001
+
+
+
+2010-02-18T04:54:57.448545Z
+5636
+svn_louis_simoneau
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+433c8202-6930-0410-a7f7-dab8533f9a92
+
+01_jquery_ui_selectable
+dir
+
+02_sorting_lists
+dir
+
+03_select_lists
+dir
+
+04_expandable_tree
+dir
+
+05_event_delegation
+dir
+
+06_fixed_table_headers
+dir
+
+07_repeating_table_headers
+dir
+
+08_pagination
+dir
+
+09_editable_table_cells
+dir
+
+10_select_column_checkboxes
+dir
+

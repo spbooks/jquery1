@@ -1,0 +1,82 @@
+10
+
+dir
+6397
+svn+ssh://lan.sitepoint.com:7001/books/jquery1/trunk/code/chapter_05
+svn+ssh://lan.sitepoint.com:7001
+
+
+
+2010-02-18T00:16:12.171104Z
+5631
+svn_louis_simoneau
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+433c8202-6930-0410-a7f7-dab8533f9a92
+
+01_expandable_menus
+dir
+
+02_event_propagation
+dir
+
+03_open_closed_indicators
+dir
+
+04_menu_expand_on_hover
+dir
+
+05_dropdown_menu
+dir
+
+06_dropdown_with_hover_intent
+dir
+
+07_simple_accordion
+dir
+
+08_simple_accordion_variant
+dir
+
+09_multi_level_accordion
+dir
+
+10_jquery_ui_accordion
+dir
+
+11_simple_tabs
+dir
+
+12_jquery_ui_tabs
+dir
+
+13_jquery_ui_tab_options
+dir
+
+14_jquery_ui_tab_control
+dir
+
+15_login_panel
+dir
+
+16_sliding_overlay
+dir
+
+17_simple_tooltips
+dir
+
+18_advanced_tooltips
+dir
+

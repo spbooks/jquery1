@@ -1,0 +1,5 @@
+#fine_print {
+  height:50px;
+  overflow:auto;
+  margin:0;
+}

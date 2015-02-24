@@ -1,0 +1,16 @@
+#photos {
+  overflow: hidden;
+  height: 200px;
+  width: 200px;
+  margin-bottom: 15px;
+}
+
+#photos_inner {
+  height: 600px;
+  width: 800px;
+  overflow: hidden;
+}
+
+#photos img {
+	float: left;
+}

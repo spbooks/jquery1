@@ -1,0 +1,94 @@
+10
+
+dir
+6397
+svn+ssh://lan.sitepoint.com:7001/books/jquery1/trunk/code/chapter_03
+svn+ssh://lan.sitepoint.com:7001
+
+
+
+2010-04-07T08:37:39.780105Z
+6091
+svn_louis_simoneau
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+433c8202-6930-0410-a7f7-dab8533f9a92
+
+01_animating_css
+dir
+
+02_relative_css_animation
+dir
+
+03_animate_show_hide
+dir
+
+04_color_animation
+dir
+
+05_easing
+dir
+
+06_other_easing_options
+dir
+
+07_bouncy_content_panes
+dir
+
+08_animation_queue
+dir
+
+09_animated_navigation
+dir
+
+10_animated_navigation_2
+dir
+
+11_jquery_ui_effects
+dir
+
+12_scroll_event
+dir
+
+13_floating_nav_1
+dir
+
+14_floating_nav_2
+dir
+
+15_page_scroll
+dir
+
+16_custom_scrollbar
+dir
+
+17_resize_event
+dir
+
+18_layout_switcher
+dir
+
+19_resizable_elements
+dir
+
+20_resizable_textarea
+dir
+
+21_horizontal_pane_splitter
+dir
+
+22_vertical_pane_splitter
+dir
+

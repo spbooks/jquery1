@@ -1,0 +1,7 @@
+.over-inline {
+  background-color: #FFFACD;
+}
+
+body .active-inline {
+  background-color: inherit;
+}
